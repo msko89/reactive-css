@@ -4,7 +4,7 @@
 
 # reset.css
 
-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reset-css@5.0.1/reset.min.css">
+- https://cdn.jsdelivr.net/npm/reset-css@5.0.1/reset.min.css
 
 # Tag 자동생성
 
