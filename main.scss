@@ -48,14 +48,13 @@ body {
       }
     }
   }
-}
-
-.container .logo {
-  max-width: 300px;
-  margin: 0 auto;
-  padding: 0 20px;
-  img {
-    width: 100%;
+  .logo {
+    max-width: 300px;
     margin: 0 auto;
+    padding: 0 20px;
+    img {
+      width: 100%;
+      margin: 0 auto;
+    }
   }
 }
