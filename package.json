@@ -1,0 +1,25 @@
+{
+  "name": "reactive-css",
+  "version": "1.0.0",
+  "description": "- https://cdn.jsdelivr.net/npm/reset-css@5.0.1/reset.min.css",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msko89/reactive-css.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msko89/reactive-css/issues"
+  },
+  "homepage": "https://github.com/msko89/reactive-css#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5",
+    "sass": "^1.34.0"
+  }
+}
